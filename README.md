@@ -37,9 +37,9 @@ Matlab, Octave, R, Python, C++ (that's it, none other)
 
 My Approach
 -----------------------------------------------------------------------------------------------
-* I have implemented Logistic Regression with help of Neural Networks.
+* I have implemented classification with help of Neural Networks.
 * Matlab has been used to implement this task.
-* The Cost function (squared) is made with regularization (L2 type) and minimized.
+* The cost function is calculated with regularization (L2 type) and minimized.
 * The dataset consists of 150 cases, 3 of each output.
   So I have taken 120 cases i.e. first 40 cases of each type as training set in “datatrain2.mat”
   and 30 cases i.e. last 10 of each type as cross validation test in “datatest2”.
